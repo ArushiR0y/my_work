@@ -1,0 +1,7 @@
+{
+    "symbol": "NSE:ADANIENT-EQ",
+    "fut_symbol": "NSE:ADANIENT24AUGFUT",
+    "lbk_period": 14,
+    "stoploss": 100,
+    "takeprofit": 40
+}
